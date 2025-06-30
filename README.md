@@ -1,6 +1,6 @@
 # Olá, eu sou o Matheus Chagas! 👋
 
-Desenvolvedor Full-Stack apaixonado por criar soluções inovadoras e eficientes. Com experiência em JavaScript, Vue.js, TypeScript e outras tecnologias web, estou sempre em busca de novos desafios e aprendizados.
+Desenvolvedor Full-Stack apaixonado por criar soluções inovadoras e eficientes. Com experiência em JavaScript, Vue.js, TypeScript e outras tecnologias web, estou sempre em busca de novos desafios e aprendizados.  
 
 ## Sobre mim
 
