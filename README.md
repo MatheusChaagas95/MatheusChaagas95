@@ -22,9 +22,7 @@ Desenvolvedor Full-Stack apaixonado por criar soluções inovadoras e eficientes
 
 ## Meus Projetos Principais
 
-- **Exercicio_Sorteador_Modulo_18:** Um projeto de sorteador desenvolvido durante o curso. (Link para o repositório)
-- **curso_ebac_frontend:** Repositório com exercícios e projetos do curso de front-end da EBAC. (Link para o repositório)
-- **todo-vue:** Uma aplicação de lista de tarefas desenvolvida com Vue.js. (Link para o repositório)
-- **calculadora_vue:** Uma calculadora simples desenvolvida com Vue.js. (Link para o repositório)
-
----
+- **curso_ebac_frontend:** Repositório com exercícios e projetos do curso de front-end da EBAC. (https://github.com/MatheusChaagas95/curso_ebac_frontend)
+- **Exercicio_Sorteador_Modulo_18:** Um projeto de sorteador desenvolvido durante o curso. (https://github.com/MatheusChaagas95/Exercicio_Sorteador_Modulo_18)
+- **todo-vue:** Uma aplicação de lista de tarefas desenvolvida com Vue.js. (https://github.com/MatheusChaagas95/todo-vue)
+- **calculadora_vue:** Uma calculadora simples desenvolvida com Vue.js. (https://github.com/MatheusChaagas95/calculadora_vue)
